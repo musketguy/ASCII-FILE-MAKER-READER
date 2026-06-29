@@ -96,7 +96,7 @@ ASCIIConverter.exe
 
 ---
 
-## Future Improvements
+## ₙₒFuture Improvements
 
 * GUI version using Dear ImGui.
 * Drag-and-drop file support.
